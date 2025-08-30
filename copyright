@@ -1,7 +1,6 @@
-Format: 
-Upstream-Name: Brian Black
+Upstream-Name: Background-Music-in-Space
 Upstream-Contact: ede.tech@gmail.com
-Source: 
+Source: https://github.com/edetech-software/Background-Music-in-Space
 
 Files: ALL
 Copyright: To the best of my knowledge, all of the AI generate music mp3 files are public domain. See the readme to replace them.
