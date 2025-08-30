@@ -1,0 +1,2795 @@
+system "1 Axis"
+
+	music ambient/track2
+
+system "10 Pole"
+
+	music ambient/track2
+
+system "11 Autumn Above"
+
+	music ambient/track2
+
+system "11 Spring Below"
+
+	music ambient/track2
+
+system "12 Autumn Above"
+
+	music ambient/track2
+
+system "14 Pole"
+
+	music ambient/track2
+
+system "14 Summer Above"
+
+	music ambient/track2
+
+system "14 Winter Below"
+
+	music ambient/track2
+
+system "16 Autumn Rising"
+
+	music ambient/track2
+
+system "3 Axis"
+
+	music ambient/track2
+
+system "3 Pole"
+
+	music ambient/track2
+
+system "3 Spring Rising"
+
+	music ambient/track2
+
+system "4 Axis"
+
+	music ambient/track2
+
+system "4 Spring Rising"
+
+	music ambient/track2
+
+system "4 Summer Rising"
+
+	music ambient/track2
+
+system "4 Winter Rising"
+
+	music ambient/track2
+
+system "5 Axis"
+
+	music ambient/track2
+
+system "5 Spring Below"
+
+	music ambient/track2
+
+system "5 Summer Above"
+
+	music ambient/track2
+
+system "5 Winter Above"
+
+	music ambient/track2
+
+system "7 Autumn Rising"
+
+	music ambient/track2
+
+system "8 Winter Below"
+
+	music ambient/track2
+
+system "9 Spring Above"
+
+	music ambient/track2
+
+system Aaura-Kaska
+
+	music ambient/trackg
+
+system Ablodab
+
+	music ambient/track2
+
+system Ablub
+
+	music ambient/track2
+
+system Acamar
+
+	music ambient/track3
+
+system Acapella
+
+	music ambient/track7
+
+system Achernar
+
+	music ambient/track3
+
+system Acnanjo
+
+	music ambient/track7
+
+system Acrux
+
+	music ambient/track1
+
+system Actannka
+
+	music ambient/track4
+
+system Adhara
+
+	music ambient/track1
+
+system "Ae Ce L-332"
+
+	music ambient/track7
+
+system "Ae Ce Q-761"
+
+	music ambient/track7
+
+system "Ae Il A-3"
+
+	music ambient/track7
+
+system "Ae Il B-11"
+
+	music ambient/track7
+
+system "Ae Il F-46"
+
+	music ambient/track7
+
+system "Ae Il G-66"
+
+	music ambient/track7
+
+system "Ae Il H-24"
+
+	music ambient/track7
+
+system "Ae Il I-99"
+
+	music ambient/track7
+
+system "Ae Il M-77"
+
+	music ambient/track7
+
+system "Ae Il O-96"
+
+	music ambient/track7
+
+system Aescolanus
+
+	music ambient/track7
+
+system Aierena
+
+	music ambient/track7
+
+system "Aik Kamgatake"
+
+	music ambient/track7
+
+system Aileron
+
+	music ambient/track7
+
+system Aki'il
+
+	music ambient/track7
+
+system Aksek
+
+	music ambient/track7
+
+system "Al Dhanab"
+
+	music ambient/track3
+
+system "Al Hurr"
+
+	music ambient/track6
+
+system Albaldah
+
+	music ambient/track1
+
+system Albireo
+
+	music ambient/track1
+
+system Alcyone
+
+	music ambient/tracke
+
+system Aldebaran
+
+	music ambient/track1
+
+system Alderamin
+
+	music ambient/track3
+
+system Aldhibain
+
+	music ambient/track1
+
+system Aleit
+
+	music ambient/track4
+
+system Algenib
+
+	music ambient/tracke
+
+system Algieba
+
+	music ambient/track1
+
+system Algol
+
+	music ambient/track3
+
+system Algorel
+
+	music ambient/track1
+
+system Alheka
+
+	music ambient/track1
+
+system Alhena
+
+	music ambient/track1
+
+system Alioth
+
+	music ambient/track1
+
+system Alkaid
+
+	music ambient/track1
+
+system Almaaz
+
+	music ambient/tracke
+
+system Almach
+
+	music ambient/tracke
+
+system Alnair
+
+	music ambient/track3
+
+system Alnasl
+
+	music ambient/track1
+
+system Alnilam
+
+	music ambient/tracke
+
+system Alnitak
+
+	music ambient/track1
+
+system Alniyat
+
+	music ambient/track1
+
+system "Alpha Arae"
+
+	music ambient/track1
+
+system "Alpha Centauri"
+
+	music ambient/track1
+
+system "Alpha Hydri"
+
+	music ambient/track3
+
+system Alphard
+
+	music ambient/track1
+
+system Alphecca
+
+	music ambient/track1
+
+system Alpheratz
+
+	music ambient/track3
+
+system Alpherg
+
+	music ambient/tracke
+
+system Altair
+
+	music ambient/track1
+
+system Aludra
+
+	music ambient/track1
+
+system Anax
+
+	music ambient/track8
+
+system Anbrim
+
+	music ambient/track7
+
+system "Ancient Hope"
+
+	music ambient/track2
+
+system Ankaa
+
+	music ambient/track3
+
+system Answer
+
+	music ambient/track2
+
+system Antares
+
+	music ambient/tracke
+
+system Antevorta
+
+	music ambient/track7
+
+system Anthem
+
+	music ambient/track8
+
+system Ap'arak
+
+	music ambient/trackh
+
+system Apeiron
+
+	music ambient/track7
+
+system Ar-40
+
+	music ambient/track6
+
+system Arche
+
+	music ambient/track8
+
+system Arcturus
+
+	music ambient/track1
+
+system Arculus
+
+	music ambient/trackf
+
+system Arneb
+
+	music ambient/tracke
+
+system As-75
+
+	music ambient/track6
+
+system Ascella
+
+	music ambient/track1
+
+system Asikafarnut
+
+	music ambient/trackc
+
+system Asio
+
+	music ambient/tracka
+
+system Aspidiske
+
+	music ambient/track1
+
+system Atik
+
+	music ambient/track7
+
+system Atria
+
+	music ambient/track1
+
+system Auhru
+
+	music ambient/tracka
+
+system Avasaa-Novaa
+
+	music ambient/track6
+
+system Avior
+
+	music ambient/track1
+
+system "Avo Chigo"
+
+	music ambient/track9
+
+system Axiom
+
+	music ambient/track7
+
+system Aya'k'k
+
+	music ambient/trackh
+
+system B-11
+
+	music ambient/track6
+
+system Ballad
+
+	music ambient/track7
+
+system Be-9
+
+	music ambient/track6
+
+system Beginning
+
+	music ambient/track2
+
+system Belenos
+
+	music ambient/tracke
+
+system Bellatrix
+
+	music ambient/track3
+
+system Belonging
+
+	music ambient/track2
+
+system Belug
+
+	music ambient/track2
+
+system Belugt
+
+	music ambient/track2
+
+system "Beta Lupi"
+
+	music ambient/track1
+
+system Betelgeuse
+
+	music ambient/track1
+
+system Billow
+
+	music ambient/track7
+
+system Bloptab
+
+	music ambient/track2
+
+system Blubipad
+
+	music ambient/track2
+
+system Blugtad
+
+	music ambient/track2
+
+system Boral
+
+	music ambient/track1
+
+system "Bore Fah"
+
+	music ambient/track5
+
+system "Bosuno Le"
+
+	music ambient/track9
+
+system "Bote Asu"
+
+	music ambient/track5
+
+system Br-80
+
+	music ambient/track6
+
+system "Bright Void"
+
+	music ambient/track2
+
+system "Broken Bowl"
+
+	music ambient/track2
+
+system "Bunri Lemeta"
+
+	music ambient/track9
+
+system C-12
+
+	music ambient/track6
+
+system Ca-40
+
+	music ambient/track6
+
+system Caeculus
+
+	music ambient/track7
+
+system Caesura
+
+	music ambient/track7
+
+system Canopus
+
+	music ambient/track1
+
+system Cantata
+
+	music ambient/track7
+
+system Capella
+
+	music ambient/track1
+
+system Caph
+
+	music ambient/track3
+
+system Cardax
+
+	music ambient/track1
+
+system Cardea
+
+	music ambient/track7
+
+system Castor
+
+	music ambient/track1
+
+system Cebalrai
+
+	music ambient/track1
+
+system Celeborim
+
+	music ambient/trackc
+
+system Chikatip
+
+	music ambient/track7
+
+system Chimitarp
+
+	music ambient/trackc
+
+system Chirr'ay'akai
+
+	music ambient/trackh
+
+system Chorale
+
+	music ambient/track7
+
+system Chornifath
+
+	music ambient/track7
+
+system Chy'chra
+
+	music ambient/trackh
+
+system Chyyra-Osolaa
+
+	music ambient/trackg
+
+system Cinxia
+
+	music ambient/trackf
+
+system Citadelle
+
+	music ambient/tracke
+
+system Cl-35
+
+	music ambient/track6
+
+system Clepsydra
+
+	music ambient/track7
+
+system Clip
+
+	music ambient/track8
+
+system Coluber
+
+	music ambient/track7
+
+system Companion
+
+	music ambient/track2
+
+system Concerto
+
+	music ambient/track8
+
+system Convector
+
+	music ambient/track7
+
+system "Cor Caroli"
+
+	music ambient/track1
+
+system Corporeal
+
+	music ambient/track7
+
+system Cotpoxi
+
+	music ambient/track7
+
+system Cshudlye
+
+	music ambient/track7
+
+system "Cura Dic"
+
+	music ambient/track4
+
+system Current
+
+	music ambient/track7
+
+system Currus
+
+	music ambient/track7
+
+system Cusp
+
+	music ambient/track7
+
+system "Da Ent"
+
+	music ambient/track5
+
+system "Da Lest"
+
+	music ambient/track5
+
+system Dabih
+
+	music ambient/track1
+
+system Danoa
+
+	music ambient/track1
+
+system "Dark Hills"
+
+	music ambient/track2
+
+system Debrugt
+
+	music ambient/track2
+
+system Decet
+
+	music ambient/track7
+
+system "Deep Space 19K12"
+
+	music ambient/track7
+
+system "Deep Space 19M1"
+
+	music ambient/track7
+
+system "Deep Space 19M2"
+
+	music ambient/track7
+
+system "Deep Space 19M5"
+
+	music ambient/track7
+
+system "Deep Space 1Q"
+
+	music ambient/track7
+
+system "Deep Space 1X"
+
+	music ambient/track7
+
+system "Deep Space 5J"
+
+	music ambient/track7
+
+system "Deep Space 5N"
+
+	music ambient/track7
+
+system "Deep Space 5T"
+
+	music ambient/track7
+
+system "Deep Space 7C"
+
+	music ambient/track7
+
+system "Deep Space 7F"
+
+	music ambient/track7
+
+system Delia
+
+	music ambient/track7
+
+system "Delta Capricorni"
+
+	music ambient/track3
+
+system "Delta Sagittarii"
+
+	music ambient/track1
+
+system "Delta Velorum"
+
+	music ambient/track1
+
+system Demilude
+
+	music ambient/track6
+
+system Deneb
+
+	music ambient/tracki
+
+system Denebola
+
+	music ambient/track1
+
+system Devil-Hide
+
+	music ambient/tracki
+
+system Devil-Run
+
+	music ambient/tracki
+
+system Diespiter
+
+	music ambient/track7
+
+system Diphda
+
+	music ambient/track3
+
+system Dixere
+
+	music ambient/track7
+
+system Dokdobaru
+
+	music ambient/track4
+
+system Dom'us
+
+	music ambient/tracki
+
+system Dschubba
+
+	music ambient/track1
+
+system Dubhe
+
+	music ambient/track1
+
+system "Due Yoot"
+
+	music ambient/track5
+
+system Duet
+
+	music ambient/track7
+
+system Durax
+
+	music ambient/tracke
+
+system E-4183
+
+	music ambient/track7
+
+system E-9182
+
+	music ambient/track7
+
+system Eber
+
+	music ambient/track1
+
+system Eblumab
+
+	music ambient/track2
+
+system Edusa
+
+	music ambient/track7
+
+system Eebu
+
+	music ambient/track7
+
+system Egeria
+
+	music ambient/track7
+
+system "Ehma Ti"
+
+	music ambient/track5
+
+system Ek'kek'ru
+
+	music ambient/trackh
+
+system Ekuarik
+
+	music ambient/tracki
+
+system "Elabi Choati"
+
+	music ambient/track9
+
+system Elifennka
+
+	music ambient/track7
+
+system Elnath
+
+	music ambient/track1
+
+system "Elo Chigo"
+
+	music ambient/track9
+
+system Eltanin
+
+	music ambient/track1
+
+system Empeles
+
+	music ambient/tracka
+
+system Empyrean
+
+	music ambient/track7
+
+system Eneremprukt
+
+	music ambient/trackc
+
+system "Eneva Katta"
+
+	music ambient/track9
+
+system Enif
+
+	music ambient/track4
+
+system Ensemble
+
+	music ambient/track6
+
+system Eogho
+
+	music ambient/track7
+
+system "Epsilon Leonis"
+
+	music ambient/track1
+
+system Equus
+
+	music ambient/track7
+
+system "Era Natta"
+
+	music ambient/track9
+
+system "Erabu Lemeta"
+
+	music ambient/track9
+
+system "Eragaru Le"
+
+	music ambient/track9
+
+system "Erba Yle"
+
+	music ambient/tracka
+
+system Es'sprak'ai
+
+	music ambient/trackh
+
+system Eshkoshtar
+
+	music ambient/trackc
+
+system Esix
+
+	music ambient/track7
+
+system "Eta Carinae"
+
+	music ambient/track7
+
+system Eteron
+
+	music ambient/track1
+
+system Evanescence
+
+	music ambient/track7
+
+system Evrae
+
+	music ambient/track7
+
+system F-19
+
+	music ambient/track6
+
+system "Fah Root"
+
+	music ambient/track5
+
+system "Fah Soom"
+
+	music ambient/track5
+
+system Fala
+
+	music ambient/track1
+
+system "Fallen Leaf"
+
+	music ambient/track2
+
+system "Far Horizon"
+
+	music ambient/track2
+
+system Farbutero
+
+	music ambient/track7
+
+system Farinus
+
+	music ambient/track7
+
+system Faronektu
+
+	music ambient/trackc
+
+system Fasitopfar
+
+	music ambient/track7
+
+system Fearis
+
+	music ambient/track7
+
+system "Fell Omen"
+
+	music ambient/track2
+
+system Feraticus
+
+	music ambient/track7
+
+system Fereti
+
+	music ambient/track7
+
+system Feroteri
+
+	music ambient/track7
+
+system Ferukistek
+
+	music ambient/trackc
+
+system Fingol
+
+	music ambient/track1
+
+system Firmament
+
+	music ambient/track7
+
+system Flugbu
+
+	music ambient/track2
+
+system Flutter
+
+	music ambient/track7
+
+system Fomalhaut
+
+	music ambient/track3
+
+system Fornarep
+
+	music ambient/track7
+
+system "Four Pillars"
+
+	music ambient/track2
+
+system Frenzy
+
+	music ambient/track7
+
+system Fscher
+
+	music ambient/track7
+
+system Fumalsamakah
+
+	music ambient/tracke
+
+system Furmeliki
+
+	music ambient/track7
+
+system G-3191
+
+	music ambient/track7
+
+system G-6183
+
+	music ambient/track7
+
+system G-719
+
+	music ambient/track7
+
+system G-819
+
+	music ambient/track7
+
+system Gacrux
+
+	music ambient/track1
+
+system Gale
+
+	music ambient/track7
+
+system "Gamma Cassiopeiae"
+
+	music ambient/track3
+
+system "Gamma Corvi"
+
+	music ambient/track1
+
+system Gaungu
+
+	music ambient/track7
+
+system Ge-73
+
+	music ambient/track6
+
+system "Genta Bo"
+
+	music ambient/track9
+
+system "Gento Ah"
+
+	music ambient/track9
+
+system Gerenus
+
+	music ambient/track7
+
+system Ghhil
+
+	music ambient/track4
+
+system Gienah
+
+	music ambient/tracke
+
+system Giribea
+
+	music ambient/track7
+
+system Girtab
+
+	music ambient/track1
+
+system Glide
+
+	music ambient/track7
+
+system Glubatub
+
+	music ambient/track2
+
+system Gomeisa
+
+	music ambient/track1
+
+system "Good Omen"
+
+	music ambient/track2
+
+system Gorvi
+
+	music ambient/track1
+
+system Gossamer
+
+	music ambient/track7
+
+system Graffias
+
+	music ambient/track1
+
+system Gualetri
+
+	music ambient/track7
+
+system Gupta
+
+	music ambient/track2
+
+system Gust
+
+	music ambient/track7
+
+system H-1
+
+	music ambient/track6
+
+system H-8188
+
+	music ambient/track7
+
+system H-9187
+
+	music ambient/track7
+
+system Hadar
+
+	music ambient/track1
+
+system Hamal
+
+	music ambient/track3
+
+system Han
+
+	music ambient/track1
+
+system Hassaleh
+
+	music ambient/track1
+
+system Hatysa
+
+	music ambient/tracke
+
+system He-4
+
+	music ambient/track6
+
+system Headwind
+
+	music ambient/track7
+
+system "Heia Due"
+
+	music ambient/track5
+
+system Hesselpost
+
+	music ambient/track7
+
+system Heutesl
+
+	music ambient/tracka
+
+system "Hevru Hai"
+
+	music ambient/track4
+
+system "Hi Yahr"
+
+	music ambient/track5
+
+system Hintar
+
+	music ambient/track1
+
+system Holeb
+
+	music ambient/track1
+
+system Homeward
+
+	music ambient/track2
+
+system Host
+
+	music ambient/track7
+
+system Hui'uc
+
+	music ambient/track7
+
+system Hunter
+
+	music ambient/track2
+
+system Huud
+
+	music ambient/track7
+
+system Ianua
+
+	music ambient/track7
+
+system Iigen
+
+	music ambient/track7
+
+system Iinjma
+
+	music ambient/track7
+
+system Iise
+
+	music ambient/track7
+
+system Ik'kara'ka
+
+	music ambient/trackh
+
+system Ildaria
+
+	music ambient/track1
+
+system Iliniza
+
+	music ambient/tracka
+
+system Ilirco
+
+	music ambient/track7
+
+system Il'le
+
+	music ambient/track7
+
+system "Imo Dep"
+
+	music ambient/track5
+
+system Insitor
+
+	music ambient/track7
+
+system Interlude
+
+	music ambient/track6
+
+system "Io Lowe"
+
+	music ambient/track5
+
+system "Io Mann"
+
+	music ambient/track5
+
+system Ipsing
+
+	music ambient/track1
+
+system "Is Ce B-139"
+
+	music ambient/track7
+
+system "Is Ce F-422"
+
+	music ambient/track7
+
+system "Is Ce G-460"
+
+	music ambient/track7
+
+system "Is Ce J-591"
+
+	music ambient/track7
+
+system "Is Il T-127"
+
+	music ambient/track7
+
+system "Is Il T-94"
+
+	music ambient/track7
+
+system "Is Il V-263"
+
+	music ambient/track7
+
+system "Is Il X-626"
+
+	music ambient/track7
+
+system "Is Il Z-59"
+
+	music ambient/track7
+
+system "Is Il Z-814"
+
+	music ambient/track7
+
+system Iyech'yek
+
+	music ambient/trackh
+
+system Izar
+
+	music ambient/track1
+
+system "Jentu Centi"
+
+	music ambient/track9
+
+system "Jentu Le"
+
+	music ambient/track9
+
+system Jied
+
+	music ambient/track7
+
+system "Jyeg Pvu"
+
+	music ambient/track7
+
+system Jyelio
+
+	music ambient/track7
+
+system K-39
+
+	music ambient/track6
+
+system Ka'ch'chrai
+
+	music ambient/trackh
+
+system Ka'pru
+
+	music ambient/trackh
+
+system Kaliptari
+
+	music ambient/track7
+
+system Kanguwa
+
+	music ambient/track7
+
+system "Kappa Centauri"
+
+	music ambient/track1
+
+system Karhio
+
+	music ambient/track7
+
+system Kashikt
+
+	music ambient/trackc
+
+system Kasii-Cavaasa
+
+	music ambient/track6
+
+system Kasii-Sola
+
+	music ambient/track6
+
+system Kasi-Vasa-Novaa
+
+	music ambient/track6
+
+system Kasikfar
+
+	music ambient/track7
+
+system "Kaus Australis"
+
+	music ambient/track1
+
+system "Kaus Borealis"
+
+	music ambient/track1
+
+system Kella-Uoasa
+
+	music ambient/trackb
+
+system Khasola-Ryuit
+
+	music ambient/track6
+
+system Khosa-Kaska
+
+	music ambient/trackg
+
+system Kiiraj-Luue
+
+	music ambient/track6
+
+system "Ki War Ek"
+
+	music ambient/tracki
+
+system "Kifrana Terberah"
+
+	music ambient/track9
+
+system Kilema
+
+	music ambient/track7
+
+system Kiluit
+
+	music ambient/tracka
+
+system Kiro'ku
+
+	music ambient/trackh
+
+system Kiru'kichi
+
+	music ambient/trackh
+
+system Kneirc
+
+	music ambient/track7
+
+system Kochab
+
+	music ambient/track1
+
+system "Kor Ak'Mari"
+
+	music ambient/trackd
+
+system "Kor En'lakfar"
+
+	music ambient/trackd
+
+system "Kor Fel'tar"
+
+	music ambient/trackd
+
+system "Kor Men"
+
+	music ambient/trackd
+
+system "Kor Nor'peli"
+
+	music ambient/trackd
+
+system "Kor Tar'bei"
+
+	music ambient/trackd
+
+system "Kor Zena'i"
+
+	music ambient/trackd
+
+system Kornephoros
+
+	music ambient/track1
+
+system Korsmanath
+
+	music ambient/track7
+
+system Kr-84
+
+	music ambient/track6
+
+system Kraz
+
+	music ambient/track1
+
+system Kugel
+
+	music ambient/track3
+
+system Kursa
+
+	music ambient/track1
+
+system L-118
+
+	music ambient/track7
+
+system L-6181
+
+	music ambient/track7
+
+system "Last Word"
+
+	music ambient/track2
+
+system Lesath
+
+	music ambient/track1
+
+system Levana
+
+	music ambient/track7
+
+system Li-7
+
+	music ambient/track6
+
+system Lift
+
+	music ambient/track7
+
+system Limen
+
+	music ambient/track1
+
+system Lire
+
+	music ambient/track7
+
+system Lloloi
+
+	music ambient/track7
+
+system Lolami
+
+	music ambient/track1
+
+system "Lom Tahr"
+
+	music ambient/track5
+
+system "Lone Cloud"
+
+	music ambient/track2
+
+system Lucina
+
+	music ambient/track7
+
+system Lumine
+
+	music ambient/track7
+
+system Lurata
+
+	music ambient/track1
+
+system Luue-Saqru
+
+	music ambient/trackg
+
+system M-1188
+
+	music ambient/track7
+
+system MC-42
+
+	music ambient/track7
+
+system MS-219
+
+	music ambient/track7
+
+system Madrigal
+
+	music ambient/track7
+
+system Makferuti
+
+	music ambient/trackc
+
+system Maoni
+
+	music ambient/track7
+
+system Markab
+
+	music ambient/track3
+
+system Markeb
+
+	music ambient/track1
+
+system Maspa-Cavaasa
+
+	music ambient/trackg
+
+system Maspa-Mavra
+
+	music ambient/track7
+
+system Maspa-Raaqa
+
+	music ambient/trackg
+
+system Matar
+
+	music ambient/track3
+
+system Mavra-Ijsola
+
+	music ambient/track6
+
+system Mebla
+
+	music ambient/track2
+
+system Meblumem
+
+	music ambient/track2
+
+system Mebsuta
+
+	music ambient/track1
+
+system Meftarkata
+
+	music ambient/track7
+
+system "Mego Faro"
+
+	music ambient/track9
+
+system "Mego Inito"
+
+	music ambient/track9
+
+system "Mego Seo"
+
+	music ambient/track9
+
+system "Mei Yohn"
+
+	music ambient/track5
+
+system Mekislepti
+
+	music ambient/trackc
+
+system Mellow
+
+	music ambient/track8
+
+system Men
+
+	music ambient/tracke
+
+system Menkalinan
+
+	music ambient/track1
+
+system Menkar
+
+	music ambient/track3
+
+system Menkent
+
+	music ambient/track1
+
+system Merak
+
+	music ambient/track1
+
+system Mesuket
+
+	music ambient/track7
+
+system Mg-24
+
+	music ambient/track6
+
+system Miaplacidus
+
+	music ambient/track1
+
+system Miblulub
+
+	music ambient/track2
+
+system Mimosa
+
+	music ambient/track1
+
+system Minkar
+
+	music ambient/track1
+
+system Mintaka
+
+	music ambient/track1
+
+system Mirach
+
+	music ambient/track3
+
+system Mirfak
+
+	music ambient/track3
+
+system Mirzam
+
+	music ambient/track1
+
+system Misam
+
+	music ambient/tracke
+
+system Mizar
+
+	music ambient/track1
+
+system Mnashyu
+
+	music ambient/tracka
+
+system Mohuwo
+
+	music ambient/track7
+
+system Moktar
+
+	music ambient/track3
+
+system Mora
+
+	music ambient/track1
+
+system Mosaa-Iyra
+
+	music ambient/trackg
+
+system Mote
+
+	music ambient/track7
+
+system Msalbit
+
+	music ambient/track7
+
+system Muhlifain
+
+	music ambient/track1
+
+system Muphrid
+
+	music ambient/track1
+
+system Myiara-Nnesa
+
+	music ambient/trackb
+
+system Myruet-Kvelq
+
+	music ambient/trackg
+
+system N-14
+
+	music ambient/track6
+
+system Na-23
+
+	music ambient/track6
+
+system Naos
+
+	music ambient/track1
+
+system Naper
+
+	music ambient/track1
+
+system Ne-20
+
+	music ambient/track6
+
+system Nenia
+
+	music ambient/track7
+
+system Nihal
+
+	music ambient/track1
+
+system Nnatai
+
+	music ambient/track7
+
+system Nnaug
+
+	music ambient/tracka
+
+system Nocte
+
+	music ambient/track1
+
+system Nona
+
+	music ambient/track7
+
+system Nonet
+
+	music ambient/track7
+
+system Nssryos
+
+	music ambient/track7
+
+system Nunki
+
+	music ambient/tracke
+
+system O-16
+
+	music ambient/track6
+
+system O-3184
+
+	music ambient/track7
+
+system Oblate
+
+	music ambient/tracke
+
+system Octet
+
+	music ambient/track7
+
+system Oihaug
+
+	music ambient/track7
+
+system Ojstaan-Sola
+
+	music ambient/trackg
+
+system Ookmya
+
+	music ambient/tracka
+
+system Oosuoro
+
+	music ambient/tracka
+
+system Opera
+
+	music ambient/track7
+
+system Orbona
+
+	music ambient/track1
+
+system Orvala
+
+	music ambient/track1
+
+system Osolaa-Uuoru
+
+	music ambient/trackg
+
+system Ossipago
+
+	music ambient/track7
+
+system Oublaa-Khora
+
+	music ambient/track7
+
+system "Over the Rainbow"
+
+	music ambient/track7
+
+system P-31
+
+	music ambient/track6
+
+system Paeli
+
+	music ambient/track7
+
+system Pantica
+
+	music ambient/trackf
+
+system Parca
+
+	music ambient/track7
+
+system "Paru Paru"
+
+	music ambient/track9
+
+system Patir
+
+
+
+system Pbelnep
+
+	music ambient/tracka
+
+system Peacock
+
+	music ambient/track1
+
+system Peak
+
+	music ambient/track7
+
+system Pearl
+
+	music ambient/track7
+
+system "Pedita Pri"
+
+	music ambient/track7
+
+system "Pedita Sec"
+
+	music ambient/track7
+
+system Pelaa-Muora
+
+	music ambient/trackg
+
+system Pelubta
+
+	music ambient/track2
+
+system Peragenor
+
+	music ambient/track7
+
+system Peresedersi
+
+	music ambient/track7
+
+system Perfica
+
+	music ambient/track7
+
+system Persian
+
+	music ambient/track3
+
+system Persitar
+
+	music ambient/track7
+
+system Phact
+
+	music ambient/track1
+
+system Phecda
+
+	music ambient/track1
+
+system Pherkad
+
+	music ambient/track1
+
+system Phurad
+
+	music ambient/track1
+
+system Piadenli
+
+	music ambient/track9
+
+system Pik'ro'iyak
+
+	music ambient/trackh
+
+system Pinnacle
+
+	music ambient/track7
+
+system Plort
+
+	music ambient/track2
+
+system Polaris
+
+	music ambient/track3
+
+system Polerius
+
+	music ambient/track7
+
+system Pollux
+
+	music ambient/track1
+
+system Porrima
+
+	music ambient/track1
+
+system "Porta Terra"
+
+	music ambient/track7
+
+system Postlude
+
+	music ambient/track6
+
+system Postverta
+
+	music ambient/tracki
+
+system Prakacha'a
+
+	music ambient/trackh
+
+system Prelude
+
+	music ambient/track6
+
+system Procyon
+
+	music ambient/track1
+
+system Prosa
+
+	music ambient/track7
+
+system Ptetubo
+
+	music ambient/tracka
+
+system Ptobeh
+
+	music ambient/track7
+
+system "Pug Iyik"
+
+	music ambient/tracki
+
+system Pukako
+
+	music ambient/track7
+
+system Quartet
+
+	music ambient/track7
+
+system Quaru
+
+	music ambient/tracki
+
+system Queri
+
+	music ambient/track7
+
+system Quintessence
+
+	music ambient/track7
+
+system Quintet
+
+	music ambient/track7
+
+system Raaqa-Ryuit
+
+	music ambient/trackg
+
+system Rajak
+
+	music ambient/track1
+
+system Rasalhague
+
+	music ambient/track1
+
+system Rastaban
+
+	music ambient/track1
+
+system "Rati Cal"
+
+	music ambient/track5
+
+system "Ravu Kon"
+
+	music ambient/track9
+
+system Regor
+
+	music ambient/track1
+
+system Regulus
+
+	music ambient/track1
+
+system Relifer
+
+	music ambient/track7
+
+system Remembrance
+
+	music ambient/track2
+
+system Rhapsody
+
+	music ambient/track7
+
+system Rigel
+
+	music ambient/track1
+
+system Ritilas
+
+	music ambient/track7
+
+system Rivulet
+
+	music ambient/track7
+
+system Rota
+
+	music ambient/track7
+
+system Rouseu
+
+	music ambient/track7
+
+system Ruchbah
+
+	music ambient/track3
+
+system Rutilicus
+
+	music ambient/track1
+
+system S-32
+
+	music ambient/track6
+
+system Sabik
+
+	music ambient/track1
+
+system Sabriset
+
+	music ambient/track7
+
+system Sadalmelik
+
+	music ambient/track4
+
+system Sadalsuud
+
+	music ambient/track4
+
+system Sadr
+
+	music ambient/track1
+
+system "Sagittarius A*"
+
+	music ambient/track7
+
+system Sail
+
+	music ambient/track8
+
+system Saiph
+
+	music ambient/track1
+
+system Salipastart
+
+	music ambient/trackc
+
+system Saquergen
+
+	music ambient/track7
+
+system Sargas
+
+	music ambient/track1
+
+system Sarin
+
+	music ambient/track1
+
+system Sayaiban
+
+	music ambient/tracki
+
+system Scheat
+
+	music ambient/track3
+
+system Schedar
+
+	music ambient/track3
+
+system Scija
+
+	music ambient/tracka
+
+system Sedes
+
+	music ambient/track7
+
+system Segesta
+
+	music ambient/track7
+
+system Seginus
+
+	music ambient/track1
+
+system Seketra
+
+	music ambient/track7
+
+system Sepetrosk
+
+	music ambient/trackc
+
+system Sepriaptu
+
+	music ambient/track7
+
+system Septet
+
+	music ambient/track7
+
+system "Sera Natta"
+
+	music ambient/track9
+
+system Serenade
+
+	music ambient/track7
+
+system Sevrelect
+
+	music ambient/trackc
+
+system Sextet
+
+	music ambient/track7
+
+system Shaula
+
+	music ambient/tracke
+
+system Sheratan
+
+	music ambient/track3
+
+system "Shini Bori"
+
+	music ambient/track9
+
+system Si-28
+
+	music ambient/track6
+
+system Si'yak'ku
+
+	music ambient/trackh
+
+system Sich'ka'ara
+
+	music ambient/trackh
+
+system Silikatakfar
+
+	music ambient/trackc
+
+system "Silver Bell"
+
+	music ambient/track2
+
+system "Silver String"
+
+	music ambient/track2
+
+system Similisti
+
+	music ambient/trackc
+
+system Sirius
+
+	music ambient/track1
+
+system Skeruto
+
+	music ambient/track7
+
+system Sko'karak
+
+	music ambient/trackh
+
+system Soar
+
+	music ambient/track8
+
+system Sobarati
+
+	music ambient/trackc
+
+system Sol
+
+	music ambient/track1
+
+system "Sol Arach"
+
+	music ambient/track2
+
+system "Sol Kimek"
+
+	music ambient/track2
+
+system "Sol Saryd"
+
+	music ambient/track2
+
+system Solifar
+
+	music ambient/track7
+
+system Sonata
+
+	music ambient/track7
+
+system Sospi
+
+	music ambient/track1
+
+system Span
+
+	music ambient/track7
+
+system Speloog
+
+	music ambient/track2
+
+system Spica
+
+	music ambient/track1
+
+system Statina
+
+	music ambient/track7
+
+system "Steep Roof"
+
+	music ambient/track2
+
+system Stercutus
+
+	music ambient/track7
+
+system Stiidej-Nnesa
+
+	music ambient/trackg
+
+system Stream
+
+	music ambient/track7
+
+system Suhail
+
+	music ambient/track1
+
+system Sumar
+
+	music ambient/track1
+
+system Sumprast
+
+	music ambient/trackc
+
+system Supra
+
+	music ambient/track7
+
+system Symphony
+
+	music ambient/track8
+
+system Tailwind
+
+	music ambient/track7
+
+system Tais
+
+	music ambient/track1
+
+system Talita
+
+	music ambient/track1
+
+system "Tania Australis"
+
+	music ambient/track1
+
+system Tap
+
+	music ambient/track7
+
+system Tarazed
+
+	music ambient/track1
+
+system Tebuteb
+
+	music ambient/track2
+
+system Tectum
+
+	music ambient/track7
+
+system Tejat
+
+	music ambient/track1
+
+system Terminus
+
+	music ambient/track1
+
+system "Terra Incognita"
+
+	music ambient/track7
+
+system Thread
+
+	music ambient/track8
+
+system "Thshybo Le"
+
+	music ambient/track9
+
+system Thuban
+
+	music ambient/tracke
+
+system Tide
+
+	music ambient/track7
+
+system Torbab
+
+	music ambient/track2
+
+system Torrent
+
+	music ambient/track7
+
+system Tortor
+
+	music ambient/track1
+
+system Trio
+
+	music ambient/track7
+
+system Tscera
+
+	music ambient/track7
+
+system Tumble
+
+	music ambient/track7
+
+system Turais
+
+	music ambient/track1
+
+system Tuur-Kella
+
+	music ambient/trackg
+
+system Twirl
+
+	music ambient/track7
+
+system U-5188
+
+	music ambient/track7
+
+system Uelawan
+
+	music ambient/track7
+
+system Uhebe
+
+	music ambient/tracka
+
+system "Ula Mon"
+
+	music ambient/track5
+
+system "Ultima Thule"
+
+	music ambient/track1
+
+system Umbral
+
+	music ambient/track1
+
+system Unagi
+
+	music ambient/tracke
+
+system Unukalhai
+
+	music ambient/track1
+
+system "Urba Pest"
+
+	music ambient/track9
+
+system Uttna
+
+	music ambient/track7
+
+system Uuoru-Kella
+
+	music ambient/trackb
+
+system Uuoru-Sossa
+
+	music ambient/track6
+
+system "Uwa Fahn"
+
+	music ambient/track5
+
+system "Uwo Seija"
+
+	music ambient/track7
+
+system V-2189
+
+	music ambient/track7
+
+system Vade-Staja
+
+	music ambient/trackg
+
+system Vaiov
+
+	music ambient/track7
+
+system Valkraa-Uuoru
+
+	music ambient/trackg
+
+system Vanguwo
+
+	music ambient/track7
+
+system Vasa-Oorua
+
+	music ambient/track6
+
+system Vaticanus
+
+	music ambient/track7
+
+system Vega
+
+	music ambient/track1
+
+system Vesvii
+
+	music ambient/track7
+
+system Vilacira
+
+	music ambient/track7
+
+system Vindemiatrix
+
+	music ambient/track1
+
+system Vivace
+
+	music ambient/track7
+
+system Volax
+
+	music ambient/track1
+
+system Vorpal
+
+	music ambient/track7
+
+system Vorsuke
+
+	music ambient/track7
+
+system Vulcuja
+
+	music ambient/track7
+
+system W-3197
+
+	music ambient/track7
+
+system "Wah Ki"
+
+	music ambient/track5
+
+system "Wah Oh"
+
+	music ambient/track5
+
+system "Wah Yoot"
+
+	music ambient/track5
+
+system Wake
+
+	music ambient/track8
+
+system Wave
+
+	music ambient/track7
+
+system Waypoint
+
+	music ambient/track5
+
+system Wazn
+
+	music ambient/track1
+
+system Wei
+
+	music ambient/track1
+
+system Wezen
+
+	music ambient/track1
+
+system Whirlwind
+
+	music ambient/track7
+
+system "World's End"
+
+	music ambient/track7
+
+system Wreoul
+
+	music ambient/track7
+
+system "Xutluno Fali"
+
+	music ambient/track9
+
+system "Xutluno Rees"
+
+	music ambient/track9
+
+system "Ya Hai"
+
+	music ambient/track5
+
+system "Yed Prior"
+
+	music ambient/track1
+
+system Yerser
+
+	music ambient/track7
+
+system Yli
+
+	music ambient/track7
+
+system Yllke
+
+	music ambient/track7
+
+system Yranjiu
+
+	music ambient/track7
+
+system Zaurak
+
+	music ambient/track3
+
+system Zeinar
+
+	music ambient/tracka
+
+system "Zeta Aquilae"
+
+	music ambient/track1
+
+system "Zeta Centauri"
+
+	music ambient/track1
+
+system Zolpulti
+
+	music ambient/track7
+
+system Zosma
+
+	music ambient/track1
+
+system "Zuba Zub"
+
+	music ambient/track5
+
+system Zubenelgenubi
+
+	music ambient/track1
+
+system Zubenelhakrabi
+
+	music ambient/track1
+
+system Zubeneschamali
+
+	music ambient/track1

@@ -1,0 +1,2 @@
+name "Background Music"
+about "This plugin contains mp3 tracks for music while in system space. The tracks are sorted mostly by government. The track will change according to the space you enter."
